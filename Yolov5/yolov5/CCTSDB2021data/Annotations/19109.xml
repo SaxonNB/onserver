@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>images</folder>
+  <filename>00142</filename>
+  <path>J:\360\snow\images\00142.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>warning</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1096</xmin>
+      <ymin>218</ymin>
+      <xmax>1126</xmax>
+      <ymax>271</ymax>
+    </bndbox>
+  </object>
+</annotation>

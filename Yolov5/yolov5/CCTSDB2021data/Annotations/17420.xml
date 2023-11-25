@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <folder>images</folder>
+  <filename>02817</filename>
+  <path>J:\360\5cloud\images\02817.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>warning</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>994</xmin>
+      <ymin>212</ymin>
+      <xmax>1041</xmax>
+      <ymax>278</ymax>
+    </bndbox>
+  </object>
+</annotation>

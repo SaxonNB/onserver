@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelIMG</folder>
+	<filename>00701.jpg</filename>
+	<path>C:\Users\zx\Desktop\labelIMG\00701.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>999</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prohibitory</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>364</ymin>
+			<xmax>409</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>images</folder>
+  <filename>03766</filename>
+  <path>J:\360\sunny\images\03766.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>prohibitory</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>154</xmin>
+      <ymin>507</ymin>
+      <xmax>170</xmax>
+      <ymax>528</ymax>
+    </bndbox>
+  </object>
+</annotation>

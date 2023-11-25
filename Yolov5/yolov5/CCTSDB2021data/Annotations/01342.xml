@@ -1,0 +1,44 @@
+<annotation>
+	<folder>simple</folder>
+	<filename>01342.jpg</filename>
+	<source>
+		<database>The simple Database</database>
+		<annotation>simple</annotation>
+		<image>flickr</image>
+		<flickrid>325991873</flickrid>
+	</source>
+	<owner>
+		<flickrid>archin</flickrid>
+		<name>?</name>
+	</owner>
+	<size>
+		<width>457</width>
+		<height>889</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prohibitory</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248.5</xmin>
+			<ymin>386.1</ymin>
+			<xmax>285</xmax>
+			<ymax>483.6</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prohibitory</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255.5</xmin>
+			<ymin>252.2</ymin>
+			<xmax>291.5</xmax>
+			<ymax>347.1</ymax>
+		</bndbox>
+	</object>
+</annotation>

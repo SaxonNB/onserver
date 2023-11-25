@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>images</folder>
+  <filename>00415</filename>
+  <path>J:\360\rain\images\00415.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>prohibitory</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1833</xmin>
+      <ymin>149</ymin>
+      <xmax>1878</xmax>
+      <ymax>203</ymax>
+    </bndbox>
+  </object>
+</annotation>

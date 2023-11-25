@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>images</folder>
+  <filename>00718</filename>
+  <path>J:\360\night\images\00718.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>prohibitory</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>1065</xmin>
+      <ymin>105</ymin>
+      <xmax>1089</xmax>
+      <ymax>136</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,44 @@
+<annotation>
+	<folder>simple</folder>
+	<filename>01324.jpg</filename>
+	<source>
+		<database>The simple Database</database>
+		<annotation>simple</annotation>
+		<image>flickr</image>
+		<flickrid>325991873</flickrid>
+	</source>
+	<owner>
+		<flickrid>archin</flickrid>
+		<name>?</name>
+	</owner>
+	<size>
+		<width>457</width>
+		<height>889</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>warning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285.5</xmin>
+			<ymin>356.2</ymin>
+			<xmax>308.5</xmax>
+			<ymax>408.2</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>warning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261.5</xmin>
+			<ymin>352.3</ymin>
+			<xmax>283.5</xmax>
+			<ymax>406.9</ymax>
+		</bndbox>
+	</object>
+</annotation>

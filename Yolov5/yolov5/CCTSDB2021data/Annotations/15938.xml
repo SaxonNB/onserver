@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>images</folder>
+  <filename>00531</filename>
+  <path>J:\360\rain\images\00531.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mandatory</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>814</xmin>
+      <ymin>363</ymin>
+      <xmax>870</xmax>
+      <ymax>416</ymax>
+    </bndbox>
+  </object>
+</annotation>

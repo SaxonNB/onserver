@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <folder>images</folder>
+  <filename>01435</filename>
+  <path>J:\360\night\images\01435.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mandatory</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>491</xmin>
+      <ymin>453</ymin>
+      <xmax>507</xmax>
+      <ymax>468</ymax>
+    </bndbox>
+  </object>
+</annotation>
